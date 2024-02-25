@@ -1,4 +1,4 @@
-package com.example;;
+package com.example;
 
 public class Queue {
     int[] arr = new int[100];
@@ -63,13 +63,3 @@ public class Queue {
     }
 
 }
-
-/*
-4 3 2 1
-|      |
-rear   front
-
-1  2    3   4   0
-|          |
-front    rear
- */
